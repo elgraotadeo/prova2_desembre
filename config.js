@@ -2,8 +2,8 @@ function name(){
     document.getElementById('name').style.color="blue";
 }
 
-function birth_doble(){
-    document.getElementById('birth').style.color="lightpink";
+function address_doble(){
+    document.getElementById('address').style.color="lightpink";
 }
 
 function birth(){
